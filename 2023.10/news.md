@@ -9,7 +9,7 @@ Systems with only one planetary body are, to put it bluntly, boring! Manually
 navigating to e.g. the moon was a massive hassle and would make playing within
 any non-trivial system a tedious chore.
 
-![interplanetary](interplanetary.webm)
+![interplanetary](./interplanetary.mp4)
 
 This took a lot of cycles; it turns out interplanetary navigation is not
 trivial! I'm super happy with the results.

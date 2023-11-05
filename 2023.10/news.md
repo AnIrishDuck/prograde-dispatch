@@ -21,7 +21,7 @@ The maneuver UI for fleets now is a singleton (only one can be open at a time)
 and it occupies a panel on the bottom of the screen instead of a floating
 window.
 
-[bottom ui](bottom-ui.webm)
+[bottom-ui.webm](https://github.com/AnIrishDuck/prograde-dispatch/assets/289125/c7a0667d-8a15-4264-9509-7a2454ee3ec4)
 
 The window just got in the way, and didn't provide enough space for important
 stuff (like the new Fleet pane). It also didn't play well with "fatter" screen
